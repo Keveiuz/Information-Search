@@ -1,0 +1,968 @@
+so i guess this is more or less now just to get you up to date johno
+this is what uh
+this is a meeting for me
+um
+eva
+bhaskara and i did
+did you add more stuff to it later
+um why
+um
+i don t know
+there were like the you know and all that stuff but
+i thought you you said you were adding stuff but i don t know
+uh no this is
+um
+ha
+very nice
+um so we thought that
+we can write up
+uh
+an element
+and for each of the situation
+nodes that we observed in the bayes net
+so
+what s the situation like at the entity that is mentioned if we know anything about it is it under construction
+or is it
+on fire or something happening to it or is it stable
+and so forth going all the way
+um
+f
+through parking
+location hotel car restroom
+riots fairs strikes or
+disasters
+so is this is a situation are is all the things which can be happening right now
+or what is the situation
+type
+that s basically just specifying the the input for the w what s
+oh i see y why are you specifying it in
+um
+just because it forces us to be specific about the values
+here
+and also i mean this is a what the input is going to be right
+so we will uh
+this is a schema this is
+well yeah i just don t know if this is th l what the does this is what java bayes takes as a
+no because i mean if we
+bayes net spec
+i mean we re sure gonna interface to
+we re gonna get an document from somewhere
+right and that document will say
+we are able to we were able to observe that w the element
+um of the location that the car is near
+so that s gonna be
+um
+so this is the situational context everything in it is that what situation is short for shi situational context
+yep
+so this is just
+again a an schemata which defines a set of possible uh permissible
+structures
+which we view as input into the bayes net
+right
+and then we can r uh
+possibly run one of them uh
+transformations
+that put it into the format that the bayes n or java bayes or whatever wants
+yea are you talking are you talking about the the structure
+well it
+i mean when you observe a node
+when you when you say
+the input to the v java bayes
+um hmm
+it takes a certain format right
+which i don t think is this
+although i don t know
+no it s certainly not this
+nuh
+so you could just couldn t you just run a
+yeah
+yeah
+to convert it into the java bayes for format
+yep
+that s
+that s no problem but
+i even think that um
+i mean once once you have this sort of as running as a module
+right what you want is
+you wanna say give me the posterior probabilities of the go there node
+when this is happening
+right when the person said this the car is there it s raining and this is happening
+and with this you can specify the what s happening in the situation and what s happening
+with the user
+so we get
+after we are done through the situation we get the user vector
+so this is a
+so this is just a specification of all the possible inputs
+yep
+and
+all the possible outputs too
+so we have um
+for example the uh go there decision node
+which has two
+elements going there
+and its posterior probability
+and not going there and its posterior probability
+because the output is always gonna be
+all the decision nodes and all the the a all the posterior probabilities for all the values
+and then we would just look at the eh struct that we wanna look at in terms of if if we re only asking about one of the
+so like if i m just interested in the going there node
+i would just pull that information out of the struct
+that gets return that would that java bayes would output
+um
+pretty much yes but
+i think it s a little bit more complex
+as if i understand it correctly it always gives you all the posterior probabilities for all the values of all decision nodes
+so when we
+input something
+we always get the uh posterior probabilities for all of these right
+so there is no way of telling it t
+not to tell us about the eva values
+yeah wait i agree that s yeah use oh uh yeah
+so so we get this whole
+list of of um
+things and the question is
+what to do with it
+what to hand on
+how to interpret it
+in a sense
+so y you said if you i m only interested in whether he wants to go there or not then i just look at that node
+look which one
+look at that struct in the output right
+yep
+look at that struct in the the output even though
+i wouldn t call it a struct but
+well i well it s an structure that s being res returned right
+oh mm hmm
+so every part of a structure is a struct
+yeah
+yeah i just uh i just was abbreviated it
+to struct in my head and
+started going with that
+that element or object
+i would say
+not a that s not what i was trying to k though yeah
+yeah
+and um
+the reason is
+why i think it s a little bit more complex or why why we can even think about it as an interesting problem in and of itself is
+um
+so
+the uh
+let s look at an example
+well w wouldn t we just take the structure that s outputted
+and then run another transformation on it that would just dump the one that we wanted out
+yeah w we d need to prune
+right
+throw things away
+well actually you don t even need to do that with d can t you just look at one specific
+no
+yeah exactly the
+xerxes
+allows you to say u just give me the value of that and that and that
+but we don t really know what we re interested in before we look at the complete at at the overall result
+so the person said
+um
+where is and so
+we want to know
+um
+is does he want
+info
+o on this or know the location
+or does he want to go there
+let s assume this is our our question
+sure
+nuh
+so
+um
+do this in perl
+so we get
+let s assume this is the output
+so
+we should con be able to conclude from that that
+i mean it s always gonna give us a value of
+how likely we think i it is that he wants to go there and doesn t want to go there
+or how likely it is that he wants to
+get information
+but maybe w we should just reverse this to make it a little bit more delicate
+so does he wanna know where it is or does he wanna go there
+he wants to know where it is
+right
+i i i tend to agree and if it s
+if
+well now y i mean you could
+and i if there s sort of a clear winner here
+and um
+and this is pretty uh
+indifferent
+then we then we might conclude that he actually wants to
+just know where uh t uh he does want to go there
+uh out of curiosity is there a reason why we wouldn t
+combine
+these three nodes
+into one smaller subnet
+that would just
+basically be
+the question for we have where is is the question right that would just be info on or location
+based upon
+or go there a lot of people ask that if they actually just wanna go there
+people come up to you on campus and say where s the library
+you re gonna say y you re gonna say g go down that way
+you re not gonna say it s it s five hundred yards away from you or it s north of you or
+it s located
+well i mean but the there s so you just have three
+decisions for the final node that would link thes these three nodes in the net together
+um
+i don t know whether i understand what you mean but again in this
+given this input we also in some situations may wanna
+postulate an opinion whether
+that person wants to go there now
+the nicest way use a cab or so s
+wants to know it wants to know where it is because he wants something fixed there because he wants to
+visit t it or whatever
+so it n i mean a all i m saying is
+whatever our input is we re always gonna get the full
+output
+and some
+some things
+will always be sort of
+too not significant enough
+wha
+or i or i it ll be tight you won t it ll be hard to decide but i mean i guess i guess the thing is
+yep
+uh
+this is another smaller case of reasoning in the case of an uncertainty which makes me think bayes net should be
+the way to solve
+these things so if you had if for every construction right
+oh
+you could say well there here s the where is construction
+and for the where is construction we know we need to l look at this node
+that merges these three things together
+mm hmm
+as for th to decide the response and since we have a finite number of constructions that we can deal with we could have a finite number of nodes
+say if we had to y deal with arbitrary language it wouldn t make any sense to do that because
+mm hmm
+there d be no way to generate the nodes for every possible sentence
+mm hmm
+but since we can only deal with a finite amount of stuff
+so basically the idea is to f
+to feed the output of that
+belief net into another belief net
+yeah so basically take these three things and then put them into another belief net
+but why why why only those three why not the whol
+well i mean d for the where is question
+so we d have a node for the where is question
+yeah but we believe that all the decision nodes are can be relevant for the where is
+and the where how do i get to or the tell me something about
+is food not allowed in here
+you can come in if you want
+yes it is allowed
+as long as y you re not wearing your h your h headphones
+alright just a second i ll be back
+well i do i see i don t know if this is a good idea or not i m just throwing it out
+but uh it seems like we could have i mea or uh we could put all of the all of the r information that could also be relevant
+into the where is node answer
+mm hmm
+yep
+node
+thing
+stuff
+and uh
+i mean
+let s not forget we re gonna get some very strong input from these sub dis from these discourse things right
+so
+tell me the location of
+nuh
+or where is located
+we u
+at nuh
+yeah i know but the bayes net would be able to the weights on the
+on the nodes in the bayes net would be able to do all that wouldn t it
+mm hmm
+here s a k
+oh
+oh i ll wait until you re plugged in
+oh don t sit there sit here
+you know how you don t like that one it s
+oh do i not
+that s the weird one
+that s the one that s painful that hurts it hurts so bad
+i m h i m happy that they re recording that
+that headphone the headphone that you have to put on backwards with the little little thing and the little little foam block on it
+it s a painful painful microphone
+i think it s th called the crown
+the crown
+what
+yeah versus the sony
+the crown
+is that the actual name
+mm hmm
+the manufacturer
+i don t see a manufacturer on it
+you w
+oh wait here it is h this thingy
+yeah it s the crown
+the crown of pain
+yes
+you re on line
+are you are your mike o is your mike on
+indeed
+so you ve been working with these guys you know what s going on
+yes i have
+and i do
+yeah alright s so where are we
+excellent
+we re discussing this
+i don t think it can handle french but anyway
+so
+assume we have something coming in a person says where is and we get a certain we have a situation vector and a user vector and everything is fine
+an an and and our and our
+did you just sti did you just stick the m the the the microphone actually in the tea
+no
+and um
+i m not drinking tea what are you talking about
+oh yeah sorry
+let s just assume our bayes net just has three decision nodes for the time being
+these three he wants to know something about it he wants to know where it is he wants to go there
+in terms of these would be wha how we would answer the question where is right
+we u
+this is i that s what you s it seemed like explained it to me earlier w
+we we re we wanna know how to answer the question where is
+yeah but mmm
+yeah
+no i can i can do the timing node in here too and say
+well yeah but in the s uh let s just deal with the s the simple case of we re not worrying about timing or anything
+we just want to know how we should answer where is
+and um
+and
+go there has two values right go there and not go there let s assume those are the posterior probabilities of that
+mm hmm
+info on has true or false and location so he wants to know something about it and he wants to know something he wants to know where it is
+excuse me
+has these values
+and um
+oh i see why we can t do that
+and um in this case we would probably all agree that
+he wants to go there our belief net thinks he wants to go there right in the uh whatever if we have something like
+yeah
+mm hmm
+this here
+and
+this like that and maybe here also some
+you should probably
+make them out of yeah
+well it
+something like that
+then we would guess aha he our belief net
+has s stronger beliefs that he wants to know where it is than actually wants to go there
+right
+that it doesn t this assume though that they re evenly weighted
+true
+like
+i guess they are evenly weighted
+the different decision nodes you mean
+yeah the go there the info on and the location
+well d yeah this is making the assumption
+yes
+like
+what do you mean by differently weighted they don t feed into anything really anymore
+or i jus
+but i mean why do we
+le
+if we trusted the go there node more th much more than we trusted the other ones then we would conclude even in this situation that he wanted to go there
+so in that sense we weight them equally
+makes sense yeah
+right now
+so the but i guess the k the question
+but
+that i was as er wondering or maybe robert was proposing to me
+is
+how do we d make the decision on as to which one to listen to
+yeah so the final d decision is the combination of these three so again it s it s some kind of uh
+bayes net
+yeah sure
+so then the question i so then my question is t to you then would be
+so is the only r reason we can make all these smaller bayes nets because we know we can only deal with a finite set of constructions
+cuz oth if we re just taking arbitrary language in we couldn t have a node for every possible question you know
+a decision node for every possible question you mean
+well i like in the case of yeah
+in the ca any piece of language we wouldn t be able to answer it with this system b if we just h
+cuz we wouldn t have the correct node basically w what you re s proposing is a n where is node right
+yeah
+and and if we and if someone says you know uh something in mandarin
+so is
+yeah
+to the system we d wouldn t know which node to look at to answer that question right
+yeah
+mmm
+so but but if we have a finite what
+i don t see your point what what what i am thinking or what
+we re about to propose here is
+we re always gonna get the whole list of
+values and their posterior probabilities
+and now we need an expert system or belief net or something that interprets that
+that looks at all the
+values and says
+the winner is
+timing now go there
+uh go there timing now
+or the winner is info on
+function off
+so he wants to know something about it and what it does
+nuh
+uh regardless of of of the input wh regardle
+yeah but
+but how does the expert but how does the expert system
+know how who which one to declare the winner if it doesn t know the question it is and how that question should be answered
+based on the k what the question was so what the discourse the ontology the situation and the user model gave us we came up with these values for these decisions
+yeah i know but how do we weight what we get out
+as which one i which ones are important
+so my i so if we were to it with a bayes net we d have to have a node
+for every question that we knew how to deal with
+that would take all of the inputs and weight them appropriately for that question
+mm hmm
+does that make sense
+yay nay
+um i mean are you saying that what happens if you try to scale this up to the situation or are we just dealing with arbitrary language
+we
+is that your point
+well no i i guess my question is
+is the reason that we can make a node f or so lemme
+see if i m confused are we going to make a node for every question does that make sense or not
+for every question like
+every construction
+hmm
+i don t not necessarily i would think i mean it s not based on constructions it s based on things like uh there s gonna be a node for go there or not and there s gonna be a node for enter view approach
+wel
+w
+so someone asked a question
+yeah
+how do we decide
+how to answer it
+well look at
+look
+face yourself with this pr question you get this
+you ll have y this is what you get
+and now you have to make a decision what do we think
+what does this tell us
+and not knowing what was asked and what happened and whether the person was a tourist or a local because all of these factors have presumably already gone into making these
+posterior probabilities
+yeah
+what what we need is a just a mechanism that says
+aha
+there is
+i just don t think a winner take all type of thing is the
+i mean in general like we won t just have those three right we ll have uh like many many nodes
+yep
+so we have to like so that it s no longer possible to just look at the nodes themselves and figure out what the person is trying to say
+because there are interdependencies right
+the uh
+uh no so if if
+for example the go there posterior possibility is so high um
+uh w if it s if it has reached reached a certain height then
+all of this becomes irrelevant so if even if if the function or the history or something is
+scoring pretty good on the true node true value
+wel
+i don t know about that cuz that would suggest that i mean
+he wants to go there and know something about it
+do they have to be mutual
+yeah do they have to be mutually exclusive
+i think to some extent they are
+or maybe they re not
+cuz i uh the way you describe what they meant they weren t mutu uh they didn t seem mutually exclusive to me
+well if he doesn t want to go there
+even if the enter
+posterior proba so
+wel
+go there is no
+enter is high and info on is high
+well yeah just out of the other three though that you had in the
+hmm
+those three nodes the d they didn t seem like they were mutually exclusive
+no there s no but
+it s through the
+so th s so yeah but some so some things would drop out and some things would still be important
+mm hmm
+but i guess what s confusing me is if we have a bayes net to deal w another bayes net to deal with this stuff
+mm hmm
+you know
+uh
+is the only reason so
+i guess
+if we have a ba another bayes net to deal with this stuff the only r reason
+we can design it is cuz we know
+what each question is asking
+yeah
+i think that s true
+and then so the only reason way we would know what question he s asking is based upon oh so if let s say i had a construction parser and i plug this in i would know what each construction the communicative
+intent of the construction was
+mm hmm
+and so then i would know how to weight the nodes appropriately in response
+so no matter what they said if i could map it onto a where is construction
+ge
+mm hmm
+i could say ah
+well the the intent here was where is
+right
+and i could look at those
+yeah
+yes i mean sure you do need to know i mean to have that kind of information
+hmm
+yeah i m also agreeing that a simple
+pru
+take the ones where we have a clear winner
+forget about the ones where it s all sort of
+middle ground
+prune those out and just hand over the ones where we have a winner
+yeah because that would be the easiest way
+we just compose as an output an mes message that says
+go there now
+enter
+historical information
+and not care whether that s consistent with anything
+right
+but in this case if we say definitely he doesn t want to go there he just wants to know
+where it is
+or let s call this this look at h
+he wants to know something about the history of so he said
+tell me something about the history of that
+now the e but for some reason the endpoint approach
+gets a really high score too
+we can t expect this to be sort of at point
+three three three point three three three point three three three right
+somebody needs to zap that
+you know
+or
+know
+there needs to be some knowledge that
+we
+yeah but the bayes net that would merge
+i just realized that i had my hand in between my mouth and my micr er my and my microphone
+so then
+the bayes net that would merge
+there that would make the decision between go there info on and location
+would have a node to tell you which one of those three you wanted and based upon that node then you would look at the other stuff
+yep
+i mean it i
+yep
+does that make sense
+yep it s sort of one of those that s it s more like a decision tree
+if if you want
+you first look o at the lowball ones and then
+yeah i
+yeah i didn t intend to say that every possible
+there was a confusion there k i didn t intend to say every possible thing should go into the bayes net because some of the things aren t relevant in the bayes net
+for a specific question
+like the endpoint
+is not necessarily relevant in the bayes net for where is until after you ve decided whether you wanna go there or not
+mm hmm
+right
+show us the way bhaskara
+i guess the other thing is that um yeah i mean when you re asked a specific question and you don t even
+like if you re asked a where is question you may not even look like ask for the posterior probability of the uh node right
+cuz that s what i mean in the bayes net you always ask for the posterior probability of a specific node so i mean
+you may not even bother to compute things you don t need
+um
+aren t we always computing all
+no
+you can compute uh the posterior probability of one subset of the nodes given
+some other nodes but
+totally ignore some other nodes also
+basically things you ignore get marginalized over
+yeah but that s that s just shifting the problem
+then you would have to make a decision if it s a where is question which
+yeah so you have to make
+yeah
+decision nodes do i query
+yes
+that s un
+but i would think that s what you want to do right
+mmm
+well eventually you still have to pick out which ones you look at so it s pretty much the same problem isn t it
+yeah
+yeah it s it s it s apples and oranges nuh
+i mean maybe it does make a difference in terms of performance
+computational time so either you
+mm hmm
+always have it compute all the posterior possibilities for all the values for all nodes and then prune
+mmm
+the ones you think that are
+irrelevant
+or you just make a p
+a priori
+estimate of what you think might be relevant and query those
+yeah
+so basically you d have a decision tree query go there
+if k if that s false query this one if that s true query that one and just basically do a binary search through the
+i don t know if it would necessarily be that uh complicated but uh
+i mean it w
+well in the case of go there it would be in the case cuz if you needed an if y if go there was true you d wanna know what endpoint
+was and if it was false you d wanna d look at
+either lo income info on or history
+yeah
+that s true i guess yeah so in a way you would have that
+also i m somewhat boggled by that hugin software
+why s that
+i can t figure out how to get the
+probabilities into it
+like i d look at
+mm hmm
+it s somewha it s boggling me
+alright
+well hopefully it s fixable
+ju
+oh yeah yeah i d i just think i haven t
+it s there s a
+figured out what the terms in hugin mean versus what java bayes terms are
+um by the way are do we know whether jerry and nancy are coming or
+so we can figure this out
+they should come when they re done their stuff basically whenever that is
+so
+what d what do they need to do left
+um
+i guess
+jerry needs to enter marks but i don t know if he s gonna do that now or later
+but uh if he s gonna enter marks it s gonna take him awhile i guess and he won t be here
+and what s nancy doing
+nancy um she was sorta finishing up the uh
+calculation of marks and assigning of grades but i don t know if she should be here
+well or she should be free after that so
+assuming she s coming to this meeting
+i don t know if she knows about it
+she s on the email list right
+is she
+mm hmm
+because
+basically what
+where we also have decided prior to
+this meeting is that
+we would have a rerun of the three of us sitting together
+sometime this week again
+and finish up the uh values
+of
+this
+so we have
+uh
+believe it or not we have all the bottom ones here
+well i
+you added a bunch of nodes for
+yep
+we we we have actually what we have is this line
+uh what do the uh
+right
+structures
+hmm
+do so the the the
+for instance this location node s got two inputs
+that one you
+four inputs
+hmm
+four
+those are the bottom things are inputs also
+oh i see
+yeah
+that was
+that makes a lot more sense to me now
+yep
+cuz i thought it was like that
+one in
+stuart s book about
+you know the
+alarm in the dog
+u yeah
+yeah
+or the earthquake and the alarm
+sorry yeah i m confusing two
+yeah there s a dog one too but that s in java bayes isn t it
+right
+maybe
+but there s something about
+bowel problems or something with the dog
+yeah
+and we have all the
+top ones
+all the ones to which no arrows are pointing
+what we re missing are the
+these where arrows are pointing where we re combining
+top ones
+so we have to come up with values for this and
+this this this and so forth
+and maybe
+just fiddle around with it a little bit more
+and um
+and then it s just uh
+edges
+many of
+edges
+and um we won t meet next monday
+so
+cuz of memorial day
+yep
+we ll meet next tuesday i guess
+yeah
+when s jerry leaving for
+italia
+on on friday
+which friday
+this this friday
+oh this friday
+ugh
+this friday
+as in four days
+yep
+or three days
+is he how long is he gone for
+two weeks
+italy huh
+what s uh what s there
+well it s a country
+buildings
+people
+but it s not a conference or anything he s just visiting
+pasta
+hmm
+right
+just visiting
+vacation
+it s a pretty nice place
+in my brief uh encounter with it
+do you guys oh yeah so part of what we actually want to do is sort of schedule out what we want to surprise him with when when he comes back
+um so
+oh i think we should disappoint him
+yeah you or have a finished construction parser and a working belief net and uh
+that wouldn t be disappointing
+i think w we should do absolutely no work
+for the two weeks that he s gone
+well that s actually what i had planned personally i had i i had sort of scheduled out in my mind that you guys do a lot of work and i do nothing
+and then i sort of
+oh yeah that sounds good too
+sort of bask in in your glory
+but uh i do you guys have any vacation plans because i myself am going to be
+um
+gone but
+this is actually not really important just this weekend we re going camping
+yeah i m wanna be this gone this weekend too
+ah
+but we re all going to be here on tuesday again
+looks like it
+yeah
+then let s meet meet again next tuesday
+and um
+finish up this bayes net
+and once we have finished it
+i guess we can
+um
+and that s going to be more just you and me
+because bhaskara is doing probabilistic
+recursive
+structured
+object oriented
+uh
+killing machines
+reasoning machines
+yes
+and um
+killing reasoning what s the difference
+wait so you re saying next tuesday is it the whole group meeting or just
+uh
+us three working on it or or
+the whole group
+and we present our results
+our final
+definite
+so when you were saying we need to do a re run
+of like
+h what
+what like just working out the rest of the
+yeah we should do this th the upcoming days
+this week
+so this week yeah
+when you say the whole group you mean
+the four of us and keith
+and ami might
+ami might be here and it s possible that nancy ll be here
+yep
+so
+yeah
+because th you know
+once we have the belief net done
+you re just gonna have to
+explain it to me then on tuesday how it s all gonna work out
+you know
+we will
+because then once we have it sort of up and running then we can start you know
+defining the interfaces and then feed stuff into it and get stuff out of it and then
+hook it up to some
+fake construction
+parser and
+that you will have in about
+nine months or so yeah
+yeah
+and um
+the first bad version ll be done in nine months
+yeah i can worry about the ontology interface and you can keith can worry about the discourse i mean this is pretty um i mean i i i hope everybody uh knows that
+these are just going to be uh dummy values right
+which
+where the
+which ones
+s so so if the endpoint if the go there is yes and no then go there discourse will just be fifty fifty
+right
+um what do you mean if the go there says no then the go there is
+i don t get it
+i don t u understand
+um
+like the go there depends on all those four things
+yep
+yeah
+but what are the values of the go there discourse
+well it depends on the situation if the discourse is strongly indicating that
+yeah but uh we have no discourse input
+oh i see the d see uh specifically in our situation and are gonna be uh yeah sure so whatever
+so so far we have
+is that what the keith node is
+yep
+and you re taking it out for now or
+well this is
+this i can i can get it in here
+all the s are
+i can get it in here so th we have the uh
+um
+sk let s let s call it keith johno
+node
+johno
+there is
+an
+somewhere printed
+there you go
+yeah people have the same problem with my name
+yeah
+oops
+and um
+does th th does the go b before the or after the
+oh in my name before the
+yeah
+good
+cuz you kn when you said people have the same problem i thought cuz my goes after the uh e e e the v
+people have the inverse problem with my name
+i always have to check
+every time y i send you an email
+a past email of yours to make sure i m spelling your name correctly
+yeah
+that s good
+i worry about you
+i appreciate that
+but when you abbreviate yourself as the basman you don t use any s
+basman yeah it s because of the chessplayer named michael basman who is my hero
+you re a geek
+it s k i
+how do you pronou
+how do you pronounce your name
+eva
+eva
+yeah
+not eva
+what if i were what if i were to call you eva
+i d probably still respond to it
+i ve had people call me eva but i don t know
+no not just eva eva like if i u
+take the and s pronounce it like it was a german
+which is
+yeah
+um no idea then
+voiced
+what
+it sounds like an there s also an in german which is why i
+i
+well it s just the difference between voiced and unvoiced
+yeah
+as long as that s k i mean i might slip out and say it accidentally that s all i m saying
+um
+that s fine
+yeah it doesn t matter what those nodes are anyway because we ll just make the weights zero for now
+yep
+we ll make them zero for now
+because it who who knows what they come up with
+what s gonna come in there
+and um
+then
+should we start on thursday
+and not meet tomorrow
+sure
+i ll send an email
+make a time suggestion
+wait maybe it s so that
+that that we can that we have one node per construction
+cuz even in people like they don t know what you re talking about if you re using some sort of strange construction
+yeah they would still c sort of get the closest best fit
+well yeah but i mean the uh i mean that s what the construction parser would do uh i mean if you said something completely arbitrary it would f find the
+mm hmm
+closest construction right but if you said something that was completel er h theoretically the construction parser would do that
+but if you said something for which there was no construction whatsoever
+n people wouldn t have any idea what you were talking about
+mm hmm
+like bus dog fried egg i mean
+you know
+or if even something chinese for example
+or something in mandarin yeah
+or cantonese as the case may be
+what do you think about that bhaskara
+i mean
+well
+but how many constructions do could we possibly have
+nodes for
+in this system or in r
+no we like when people do this kind of thing
+oh when p how many constructions do people have
+yeah
+i have not the slightest idea
+is it considered to be like in are they considered to be like very uh sort of s abstract things
+every noun is a construction
+so it s like in the thousands
+the yeah
+any any form meaning pair to my understanding is a construction
+so
+and form u starts at the level of noun or actually maybe even sounds yeah
+phoneme yep
+and goes upwards
+until you get
+the ditransitive construction
+and then of course the c i guess maybe there can be the
+s
+can there be combinations of the dit
+discourse level
+yeah
+constructions
+the giving a speech construction
+rhetorical constructions yeah
+yes
+but i mean
+you know you can probably count
+count the ways
+i mean
+it s probab yeah i would s definitely say it s finite
+yeah
+and at least in compilers that s all that really matters as long as your analysis is finite
+how s that how it can be finite again
+nah i can t think of a way it would be infinite
+well you can come up with new constructions
+yeah
+if the if your if your brain was totally non deterministic
+then perhaps there s a way to get uh
+infin an infinite number of constructions that you d have to worry about
+but i mean in the practical sense it s impossible
+right cuz if we have a fixed number of neurons
+yeah
+so the best case scenario would be the number of constructions or the worst case scenario is the number of constructions equals the number of neurons
+well two to the power of the number of neurons
+right
+but still
+finite
+no wait not necessarily is it
+we can end the meeting i just
+can t you use different var different levels of activation
+across uh
+mm hmm
+lots of different neurons to specify different values
+um yeah but there s like a certain level of
+there s a bandwidth issue right yeah
+bandw yeah so you can t do better than something
+turn off the mikes otherwise it gets really tough for the tr

@@ -1,0 +1,838 @@
+no
+in the supreme court of attorney general washington d c the united states
+wednesday october the above entitled matter came on for oral argument before
+the supreme court of the united states at a m
+appearances lawrence lessig esq stanford california on behalf of the
+petitioners
+theodore b olson esq solicitor general department of justice washington d c
+on behalf of the respondent
+we ll hear argument now in number eric
+eldred v john d ashcroft mr lessig
+oral argument of lawrence lessig on behalf of the petitioners
+mr chief justice may it please the court petitioners are
+before you this morning challenging congress s sonny bono copyright term
+extension act which extended the term of subsisting and future copyrights by
+years petitioners submit such a blanket extension of existing terms exceeds
+congress s power under the copyright clause and it violates the first amendment
+now the government has responded to petitioners argument in a way that betrays a
+simple but fundamental confusion the government has argued as if petitioners had
+advanced a general theory of the copyright clause or a general constraint under
+which congress must operate that is a mistake this case is about limits to an
+enumerated power it s not about general power of congress to exercise its copyright
+authority petitioners have advanced a particular interpretation of the only express
+limits in the copyright clause designed to give those limits meaning
+mr lessig i ll tell you what bothers me about your position
+and that is that congress has extended the term so often through the years and if
+you are right don t we run the risk of upsetting previous extensions of time i
+mean this seems to be a practice that began with the very first act
+justice we do not believe that the very first act extended
+terms at all speaking technically which for a lawyer means speaking accurately
+the act did not extend a federal term the act granted a term for works
+that already existed in precisely the pattern that the english parliament had done
+in the statute of anne in and that the english parliament did with monopolies
+general monopolies in the statute
+but there have been a number of extensions since
+that s right
+even if you can get over the first hurdle
+that s right that s the important hurdle and we d like to
+jump that first but the other ones justice you re right in and in
+congress extended terms in a way that is inconsistent with the strongest form of the
+test that we have advanced those extensions however were never challenged in any
+court and certainly not considered by this court
+well doesn t that itself mean something mr lessig the fact
+that they were never challenged perhaps most people and perhaps everybody felt
+there was no basis for challenging them
+well mr chief justice it s absolutely true that this case
+is here because of a fundamentally important changed circumstance that makes the
+framers limitations on the copyright clause much more significant this is the
+first time i can remember where this court has been pointed to changed circumstances
+as a reason to reaffirm the framers values because for most of this period mr
+chief justice the only people who were regulated by copyright law under the
+copyright act would have been commercial publishers primarily and now for the
+first time the scope of this exclusive right has expanded because of the changed
+technology of the internet to reach an extraordinarily broad range of creativity
+that never would have been imagined before now it s not the case that the earlier
+extensions were not questioned on constitutional grounds in fact melville nimmer
+in the consideration of the act suggested they were plainly under
+well i m talking about court challenges not academic
+challenges
+that s right there is no court challenge
+mr lessig your theory as i understand it regardless of
+changed circumstances or not your basic theory which on your argument would have
+been appropriate at any time historically is that there has at least got to be the
+possibility of a kind of a causal connection between the extension and the promotion
+or inducement for the creation of some subsequent work but why is that any more
+plausible a reading of the promotion clause than simply a reading that says the
+promotion clause requires that there be a general scheme in place which overall
+tends to promote or induce and part of one aspect of that scheme can be that the
+that at the discretion of congress the period of protection is extended from time to
+time why do you require why do you say the clause has got to be read by this
+kind of specific causation theory as opposed to a kind of systemic theory of
+promotion
+justice souter the reason is exactly related to the point i
+began with that this is a case about limits and not about discretion if it s not
+the case that this court
+no but that s i mean that s the issue in the alternative reading
+that s right
+and why is it a limit case rather than a discretion within a
+general scheme kind
+that s right
+of clause
+because if this court does not adopt a reading of the form
+we ve offered then there is no limit to the ability of congress to extend
+subsisting terms
+do you say the same thing for scope this case is about
+duration but congress from time to time in fact you mentioned
+yes
+the expanded applications of copyright and congress itself
+extends the scope from time to time
+would you make as far as say translation rights that didn t
+exist before the same argument
+i
+why or and if you wouldn t why not
+i no justice ginsburg we would not and the reason is
+again related to the method we have adopted to interpret limited times we have
+not said that promote the progress of science is a general and independent
+constraint on the copyright clause authority we ve said it must be looked to to
+interpret the scope of limited times and unless retrospective extensions are
+forbidden it will eviscerate the meaning of limited times that does not occur in
+the context of the scope of exclusive right nor in the context of the power to
+secure if that s
+could we then go back to justice o connor s question to make
+that very specific if we agree with you does that mean that we would in
+principle have to hold the extension unconstitutional i mean in
+congress extended the term from years renewable once to life of the author plus
+years now they re extending it life of the author plus if the latter is
+unconstitutional on your theory how could the former not be and if the former is
+the chaos that would ensue would be horrendous
+justice breyer under our theory as we ve advanced it you re
+right the act would be unconstitutional whether this court would apply such a
+holding in this case to that act is a question that would have to be resolved under
+the retrospective
+maybe we ought to find another theory then is there any
+justice the theory which would advance the aim of limiting
+times in a way that is enforceable is only applicable in the case that we brought
+before you here to the act and would not necessarily be applicable under the
+act for the reasons the government has offered we would not advance this
+argument but the government has offered an argument in a parallel case that
+suggests a distinction between the act and this case that s not been briefed
+here it s been grounded in their claim that the treaty power creates some special
+power we wouldn t advance that claim but the point is there are a number of issues
+that the act
+in essence you think it s at least arguable that the act
+had various positive aspects to it in terms of the purpose of the copyright clause
+that this act lacks
+that s certainly true and we also believe that for the
+reasons averted to by amicus aol in this case and the reasons you ve just suggested
+the disruption in that context under the retrospectivity cases ryder and
+reynoldsville casket company would be sufficient to fit it within the quote
+severe disruption exception to the retrospectivity
+well i suppose implicit in the argument that the act
+too should have been declared void and that we might leave it alone because of the
+disruption is that for all these years the act has impeded progress in science and
+the useful arts i just don t see any empirical evidence for that
+justice we are not making an empirical claim at all nothing in our
+copyright clause claim hangs upon the empirical assertion about impeding progress
+our only argument is this is a structural limit necessary to assure that what would
+be an effectively perpetual term not be permitted under the copyright laws
+well perhaps i misunderstood i thought the whole thrust of
+your is a great first amendment force silenced that s being thwarted
+well the thrust certainly
+i thought
+that s the whole underpinning of your case
+it s certainly the case that we are asserting in light of the changed circumstances
+that the opportunity to build upon works within the public domain is a fundamental
+first amendment interest and that the first amendment values vital speech interest
+at stake of this case is that the public domain be permitted as a source for
+cultivating work about our culture without unnecessary legal restriction
+well but you want more than that you want the right to copy
+verbatim other people s books don t you
+we want the right to copy verbatim works that should be in
+the public domain and would be in the public domain but for a statute that cannot be
+justified under ordinary first amendment analysis or under a proper reading of the
+limits built into the copyright clause
+mr lessig on your first amendment argument i don t see where
+the retroactivity prospectivity comes in because i follow your argument under
+the copyright clause but if you re saying that the time is too long the public
+domain should get this stuff sooner rather than later would you explain to me how
+your prospectivity retrospective line fits into your first amendment claim mr
+lessig justice we ve argued that it would be inappropriate in this case for the
+court to consider the prospective line until they decide whether the case whether
+the prospective and retrospective is severable and we submit it s an easy case to
+show that it s not
+on the first amendment
+yes
+argument you re making that as i take it an argument
+independent of it doesn t hang on your copyright clause argument
+that s right i
+that s right
+and so let s just take let s say that was your only
+argument in this case how does that tie into a retrospective prospective
+distinction
+well the strongest first amendment argument is about the
+retrospective extension because of a fundamental change that occurs when congress
+extends subsisting copyrights rather than when congress legislates prospectively
+when congress legislates prospectively it has no way to know who s going to benefit
+from its extension it is simply evaluating what the term should be prospectively in
+a way that we presume this court should presume is legitimate under the first
+amendment when it legislates retrospectively it is in effect looking at
+particular authors and estates of authors who are before congress asking for this
+extension and it s choosing between these particular authors and the public at
+large now it may be that in exercising that choice in this case congress made an
+objective valuation of who would be in the best position to advance the interests of
+promoting the progress of science or any original
+but you under your intermediate scrutiny test we would not
+be hypothesizing what might have been in congress s mind your first amendment test
+is a stringent one you have to have an important purpose and the means that you
+use is necessarily tied to that purpose if you take that position i don t see how
+you make the retroactive prospective line work
+well the line comes from deciding what the first amendment
+interest is and if this court heed the first amendment interest off of this
+difference between selecting who gets the benefit of years of extension and just
+simply legislating in a general way prospectively then this court could hold with
+respect to the prospective that it s not even necessary to raise the intermediate
+scrutiny in that context but again for ashwander reasons we don t think that this
+court should address the prospective aspect of the ctea even under the first
+amendment
+even though congress s pattern has been to treat all authors
+equally i mean the reason that it s been prospective and retrospective is that
+people should be people who hold copyrights should be subject to the same regime
+and not have some people who got their copyrights the week before the law passed
+treated differently than people who got it the week after
+well justice that certainly is the reason the government
+offers for this pattern it of course doesn t explain actually what congress has
+done and even in this case when a work has passed into the public domain then
+there is precisely the same week before week after problem that you advert to that
+extension does not extend to all subsisting works it only extends to all subsisting
+copyrights so that line is already drawn in the practice that congress has adopted
+but our point is the only way to assure
+but congress has or you re not disputing that congress has
+always made these extensions both retroactive and prospective
+well in it did not in it granted the benefit of
+its extension to a subset of all subsisting copyright holders
+let s stick with
+in
+because that was what you said that s the pattern under
+the ctea is identical to the one in the act
+that s absolutely right yes so they have extended it to
+both but our argument is unless this court draws a line about this extension then
+for the reasons judge sentelle suggested below there will be no limit to congress s
+ability to
+judge sentelle did not deal with the first amendment as far
+as i
+that s right
+recall
+that s right
+and so i m asking you perhaps i m missing it i haven t seen
+where you get the prospective retrospective in connection with your first amendment
+it seems that you re just saying there that years is an unreasonable is not necessary
+yes
+and it doesn t serve an important purpose
+precisely actually we re not saying anything about the years in this case even
+under the first amendment because we believe it s unseverable but
+but i thought you were saying that if you accept the copyright
+clause argument then you have a way in effect of devaluing the government s claim
+of its important interest and important objective when you get to the first
+amendment intermediate scrutiny analysis whereas if you don t accept the copyright
+clause claim then in order to make the first amendment analysis we ve simply got
+to say well gee is the promotion of useful art and so on more important than the
+public domain and can we say that that allows a distinction between years and
+years we re pretty much at sea so i thought your copyright clause argument was
+necessary to give us some handle with which to deal with the first amendment
+our copyright clause argument is certainly a way of framing
+why extensions of subsisting terms cannot be seen to promote the first amendment
+interest of speech at all
+okay let s assume we don t for the sake of argument here
+let s assume we don t accept the copyright clause argument do you have an
+independent first amendment argument in your brief
+yes of course we do
+okay and it is tell me in a sentence or two what it is i
+mean at that point i m where justice ginsburg is
+yes the first amendment argument we ve argued in our brief
+is with respect to the retrospective extension and the first amendment argument is
+that needs to
+no but that s the copyright clause argument and it seems to
+me you re saying okay we then apply that in first amendment analysis which allows
+us to make a coherent intermediate scrutiny argument if we don t accept the
+copyright clause retrospectivity argument
+yes
+then what is your first amendment argument
+that s right i m sorry justice what i m saying is not that
+it s the retrospectivity that makes the first amendment argument troubling i
+mean that drives our first amendment argument all i m saying is we have addressed
+the retrospective portion of ctea and so i m saying in the retrospective portion of
+ctea you would apply ordinary intermediate first amendment review and you would
+ask
+well this court really has not if you say that the
+copyright clause is not violated i don t think there are examples where this court
+has then resorted to first amendment analysis to invalidate the same act
+well
+i mean this would be quite a new proposition
+well justice o connor the first amendment is always an
+independent limitation on what otherwise would be legitimate exercises of
+congressional authority so this
+yes but the framers seem adopted these two things at the same
+time
+that s right
+in effect
+that s right and if
+and i think there are not to have examples that i can think of
+where we have said well we ll analyze it under the copyright clause but if that
+fails we ll turn to the first amendment
+justice that s right if only we had the framers copyright
+before us because of course again remember the exclusive right the framers spoke
+of was the right to print and publish it didn t include the derivative rights it
+didn t include the display rights and it certainly
+right it has expanded very much and they also envisioned a
+very short term and i can find a lot of fault with what congress did here
+that s right
+because it does take a lot of things out of the public
+domain that one would think that someone in congress would want to think hard
+about
+that s right
+but having done that it s very difficult to find the basis in
+the constitution for saying it isn t a limited term it s longer than one might
+think desirable
+right
+but is it not limited
+well if it is limited then there is no limit to the ability
+of congress to extend subsisting terms and that fundamentally destroys the
+objective that the
+the rule against perpetuities might jump in there at some
+point
+right and we submit the framers had something very different
+in mind than the rule against perpetuities the point is if this is permitted then
+there is no limit to the ability to extend terms and that is precisely contrary to
+what the framers had in mind when they worried about this problem originally what
+was the problem they were solving it was as this court stated in graham
+well i could agree with you in terms of policy that this
+flies directly in the face of what the framers had in mind absolutely but does it
+violate the constitution
+well if it flies in the face of what the framers had in
+mind then the question is is there a way of interpreting their words that gives
+effect to what they had in mind and the answer is yes
+well you know certainly what is happening in the country
+today in the way of congressional under the commerce clause is totally different
+than what the framers had in mind but we ve never felt that that was the criterion
+what the framers thought of there weren t steamboats there weren t
+railroads
+that s right
+we ve said there was a general grant and that congress was
+free to run with it in many respects
+in many respects mr chief justice but as this court has
+also said there are limits to what congress can do under the commerce
+clause
+but isn t
+can i ask you about one of the limits just focusing on the
+copyright clause and the progress of science and useful arts in your view does
+that is that limited to encouraging creativity by authors and inventors or does
+it also include the distribution of materials that might not otherwise be
+distributed like old films and so forth
+we re happy to adopt a broader interpretation of what promote
+the progress is about within the general framework that the framers established in
+light of the english practice which was a quid pro quo the ability to facilitate
+distribution
+so that if the quid pro quo is that we can facilitate
+distribution of some old film by an additional monopoly grant you d think that s
+permissible
+so long as the grant is conditioned upon the distribution so
+long as the grant
+in other words you could have right now if congress
+decides to have a law and this law is going to give copyrights in the bible
+shakespeare ben jonson and the reason they do it is that they think that that
+would lead publishers to produce those and distribute them and they re right they
+will okay in your view that s perfectly constitutional
+no that s the view of the government s justice breyer my
+view is
+well i thought that was the question you were getting and i
+thought you were saying i must have misunderstood i thought you were saying that
+was constitutional
+no what we were saying is if congress wants to permit
+restoration of films for example an issue that s been well briefed here congress
+can say if you restore the film then the restoration gets a copyright so long as
+it satisfies originality as outlined in feist and it gets a copyright for a period
+of time but this court s opinion in graham and in feist made clear that it could
+not extend copyrights to works in the public domain the government doesn t concede
+that but we stand on that as a way of understanding why this court
+so your answer to justice stevens is no they cannot give a
+copyright purely for purposes of dissemination to publishers is that right
+no
+oh all right
+they cannot give a copyright purely for purposes of
+distribution to publishers
+they would need to satisfy all of the implied limitations
+that this court has expressed in the context of this the most carefully limited
+clause in article i section it is one of the
+mr lessig the clause says congress shall and suppose
+congress decides in this expanded world of ours that it s going to make certain
+changes and other changes from our treaty partners suppose it well the germans led
+the fight for years in the european union we ll go with that but we re going
+demand says fair use now why couldn t that fit within the promotion of
+knowledge
+justice ginsburg we have no quarrel with the objective of
+harmonization fitting within the promote the progress of science understanding
+subject to constitutional limitations if france adopted a rule that said you
+couldn t grant copyrights to hate speech we could not harmonize with that rule
+consistent with our first amendment and similarly as mary beth peters testified
+before congress ours is the only constitution that has an express limitation on
+terms that s got to mean something and if it means that we are limited in our
+ability to agree with the europeans as they continually expand the term in light of
+their own vision of what copyright is about then that s the meaning of a
+constitutional restriction this court s interpretation of limited times could of
+course eviscerate that term of any meaning but under the principle of enumeration
+as this court has articulated it this court should interpret that clause in a way
+that gives its terms effect in a simple way just as a limited addition print is not
+a limited is not limited if each time a customer comes in a new print is printed
+so too a limited term is not limited if each time copyright holders come to
+congress they can extend the term
+that s right
+the analogy doesn t seem to work
+that s right all that i m suggesting is here is a plain
+meaning of the term that gives effect to the constitutional limit in a way that
+assures that in fact the limit is respected contrary to the government s
+argument which in effect permits congress the power perpetually to extend terms
+if i may reserve the remainder of my time
+very well mr lessig general olson we ll hear from
+you
+oral argument of theodore b olson on behalf of the respondent
+mr chief justice and may it please the court the
+questions today especially the initial questions suggest one of the many
+insurmountable obstacles to petitioners petition in position in this case that is
+that the first congress explicitly gave copyright protection to the authors of any
+books already printed as well as explicitly the owners of existing copyrights
+thereafter in and and in numerous private copyright bills
+and temporary extensions of the copyright law and in repeated patent law revisions
+congress extended the terms of federal copyright and patent protection of subsisting
+works as this court explained and some years ago in its burrows giles opinion
+such constructions are accorded very great weight and as that court went on to say
+when consistent and unchallenged for over a century are almost conclusive that
+consistent construction by congress of its authority under the copyright and patent
+clause now has lasted from the from the first through the congress
+it has been sustained by justices of this court and early decisions of this court
+it is consistent with what the law of england was from the statute of anne
+yes but take one of the early extensions just extending a
+an already granted patent to an inventor for an extra years how can that be
+squared with the language of the provision maybe congress did it but maybe it
+acted improperly when it did it
+well the congress
+and that s our question really
+well that it seems to me that there may be this is
+the clause itself is a very very broad grant it says the
+do you view it as entirely a grant or do you think it also
+contains limitations
+well i think that to the extent that there may be
+limitations justice stevens they are require considerable deference by this
+court to the judgment of congress
+well i understand that but do you i d be interested in
+knowing do you think it does contain limitations
+it contains the clause itself contains limitations
+limited times authors exclusive rights and things of that nature i don t think
+and the petitioners expressly disclaim the assertion that any substantive
+limitations in the promote the clause what the framers were saying is we want to
+give congress the authority to promote the progress of useful arts and sciences and
+how did the example we just talked about a patentee giving an
+extra years on his how does that promote the progress of science
+well it may provide additional incentives for the
+patentee to exploit and promote and disseminate that particular work with respect
+to creative works like works of art books and that sort of thing it patentee
+that there was a bargain in effect between the inventor and the government that at a
+certain period of time it would become part of the public domain it seems to me
+it s inconsistent with that
+i m just concentrating on our and i m wondering how that fits
+into the notion
+it isn t inconsistent i submit justice stevens for the
+congress to exercise its juris its responsibility under this broad grant of power
+to determine that there could be many ways in which the holder of an existing right
+may benefit the public by continuing to have that right for an additional period of
+time the same reason that congress same reasons that congress had when it
+created the right in the first place it s not just the right
+no the reason for the right in the first place was to
+encourage invention
+well but i we submit that specifically with respect to
+the copyright clause but i think it applies to the patent portion of the clause at
+all it isn t just the invention it isn t just the writing of the work and this
+relates to the questions that were asked of my colleague a moment ago it includes
+the dissemination of the work not necessarily
+dissemination alone
+not necessarily the dissemination alone
+well no not don t say not necessarily i m for
+purposes of my thinking about it i d like to know imagine we have just
+dissemination
+that something is already in the
+that s correct the only justification for the extension
+there is no other is dissemination of a work that is already in existence
+i would not want to rule that out justice breyer for the
+very reason
+well i want to say do you think yes or no
+well i think that it could very well be yes for the
+reason that in the statute the congress specifically was aware of that there
+were state copyright laws which didn t last as long as the federal statute several
+of the states hadn t finished enacting those copyright laws and a couple of states
+hadn t enacted them at all
+so in your opinion in my example if you recall it
+it s
+your answer would be if congress tomorrow wants to give a
+copyright to a publisher solely for the purpose of reproducing and disseminating ben
+jonson shakespeare it can do it
+it may
+i hate to say may
+well
+because that really that s an important question
+well because i don t think that a per i don t think
+there is a per se rule that should apply here because this is a grant of congress
+to congress to exercise its judgment as to what may be beneficial there may be
+other constitutional provisions that come into play or there may be other existing
+all right let me explain to you why it s important to me i
+have a list this is an economic statute the harms that seem to be caused by it
+the extension i ve listed as follows approximate numbers made up but magnitude
+correct the existing copyright holders who survive their copyright survives
+years who have already been paid on the numbers that were given about billion
+or more will receive an extra billion that i take it is a harm their works
+have already been created harm number the fact that people for the percent
+of the copyrights that have no commercial value after years have to find the
+copyright holder to put them in databases the cost of that on my numbers in here
+made up at least a billion dollars or they can t find the people at all and get
+permission an innumerable cost un valuable cost to people who want to use it
+those are costs on the plus side i see uniformity dissemination and now you
+tell me
+well i also see compliance with international competitive
+markets and the laws that are being adopted and the incentives
+uniformity that s uniformity
+well that s not just uniformity it s providing incentive
+to people to publish here as opposed to publish in europe where longer terms might
+be available there is an incentive to distribute existing works that may be
+necessary it s the consistency that congress is promoting by saying to individuals
+as they might have said when they enacted the copyright clause in the first place
+we will not only give you years but if we change our mind tomorrow and think
+that a better a longer period is necessary we re this is consistency but it s
+also a matter of fairness and it s
+why on the last point it s i ve counted that as zero
+the reason i ve counted it as zero is it seems to me that the added value incentive
+value to produce between life plus or life plus is zero it s carried out
+as the economists do to three decimal points divide by for the probability of
+your ever having such a work and you get virtually zero no difference between this
+and a perpetual copyright
+well i think that that s a very good illustration of why
+the authority is granted to congress because if you are an year old writer that
+may make a considerable difference in terms of what you decide to do
+how could it
+it may because you may if you have no incentive if
+you know that go into the public domain sooner rather affect your judgment with
+respect to
+in i this is going to than later it may
+it might also publisher what the publisher pays for
+your prospective work justice breyer we the copyright clause incentive provides
+incentives not just for not just to the creators but to the disseminators the
+publishers the broadcasters the film companies
+so you think say verdi othello verdi othello years
+old the prospect of an extra years way down the pike would have made a
+difference
+well i think again that illustrates why the authority is
+vested in congress to make these judgments rather than in courts to make these
+affect whether the judgments because we re not talking about the effect on an
+individual author or an individual creator what the framers of the constitution
+were concerned about is a gross judgment with respect to what might generally
+provide incentives to the population
+but it is hard to understand how if the overall purpose of
+the copyright clause is to encourage creative work how some retroactive extension
+could possibly do that i one wonders what was in the principle difficult
+principle given to congress and has been exercised so repeatedly out there that
+would ever kick in
+well that s a that is a question to say whether there
+is any limiting when such a broad grant of power authority is that
+well if it s a limited term as the constitution says is
+there indeed any limit out there
+what i submit well first of all even the petitioners
+acknowledge that as far as prospective limits are concerned that isn t a judgment
+that this court is being made to ask and in fact the petitioners acknowledge that
+it isn t a judgment that this court should make so the only point that the
+petitioners
+well if congress says we re going to grant this copyright
+indefinitely forever
+that would seem
+that violates the limited term does it not
+i acknowledge that and anything that
+in victorian england you could buy a box seat for years
+there was serene complacency about their culture and god bless them but
+i really think this is an important question and as
+justice o connor points out if we have to ask what s the most plausible explanation
+for this rule to reward existing vested interest or to stimulate former new works
+it seems to me that it s probably the former
+well
+i mean we know that
+it is well it let me say with respond in
+response to both of those questions an unlimited time would violate the copyright
+clause something that was the functional equivalent of an unlimited time would
+violate the copyright clause but the framers specifically did not put in numbers
+they had the opportunity to do that thomas jefferson suggested that a number should
+be put in we submit that it would be even since the petitioners don t suggest
+that it s an appropriate function of this court certainly in this case to pick a
+number years or something of that nature but it is quite clear that congress
+from the statute of anne we have years of history of congress thinking
+that it continues to benefit the process not just of the productivity of the
+creation of the work itself but the dissemination of it to provide
+general olson you say that the functional equivalent of an
+unlimited time would be a violation but that s precisely the argument that s being
+made by petitioners here that a limited time which is extendable is the
+functionable functional equivalent of an unlimited time a limited time that
+years from now can be extended and then extended again and extended again why
+their argument is precisely that a limited time doesn t mean anything unless it
+means once you have established the limit for works that have been created under
+that limit that s the end
+well the framers had an opportunity to say immutable
+unalterable unamendable they didn t use that they used the phrase limited term
+which means then meant then and means now a certain specified
+okay assuming
+number of years under the statute
+with the exception of a limitation which illustrates the
+distinction between forever on the one hand and a definite number on the other is
+there any limitation in the clause does the promotion does the preambular
+recitation of promotion as such place a limit on it
+i submit justice souter that there s no per se
+limitation that if there is as justice scalia suggested for if it is true that
+congress having specified years or years decides that doesn t work very well
+because of the economies of other countries the parade of constraints on artists in
+other countries the reasons that we want things to be preserved or distributed it
+should be more years or more years later
+yes but that argument would apply to new copyrights but to
+extension of already existing copyrights your argument doesn t apply
+it does apply justice stevens because
+the work has already been created
+the work has already been created but the artists that
+are creating works day in and day out take into consideration the fact that congress
+has decided there s an ease of administration
+but for them they get the benefit of the longer term if you
+don t apply it to an existing copyright i mean if you say you need years
+because of changes in the economy to encourage works you grant for the future
+but why does that making that apply to somebody provided him
+we re not just because we re not just talking about the author
+if we we re talking about
+the constitution refers to the authors and the inventors doesn t it
+they re certainly the prime actors in this scene aren t they
+yes but all of the history of the development of these
+clauses suggests that and this court has indicated in its decisions with respect
+to copyright that the framers were concerned and the congress is legitimately
+concerned not just in providing the spark of creativity but to make sure that
+that s distributed widely and available and there may be many reasons why we re we
+and that it gets into the public the expiration of the term
+that was an part of the bargain
+yes and what but the
+definition of the term was a responsibility vested in congress because it has the
+power the legislative history of the act itself suggests what was going on
+here and suggests why the framers gave this authority to congress there were
+numerous hearings there were testimony by the folks that represent the same
+position as petitioners here as to why this shouldn t be done why it should be that
+this done congress weighed as this court the phrase court used i think it was
+in the feist case the delicate balance that was so difficult for congress
+to
+how
+okay but you
+what weighs in that balance because to go back for one
+second in practical economic terms i gather the difference between a copyright
+that lasts for years lasts for years lasts forever is probably
+something less than on a penny i mean it s a penny on or
+probably a lot less than that frankly so i can not only not imagine a person whose
+decision to write would be governed by such a thing i cannot imagine a european who
+would come to america to copyright his work for such a reason indeed i wonder why
+that european wouldn t come anyway even if the term were years because if he
+doesn t come he s not going to get protection
+well the
+i mean who are these people that are going to be moved by
+that incentive
+the as we described in our brief in pages through
+i believe it is in our brief that the concerns about the limitation on
+exploitation and the limitation of a copyright period in europe is based upon the
+country of origin of the work and the shortest time available so that there may be
+differences and we describe that but that illustrates justice breyer the
+difference between cents and cents and with respect to this particular
+author who s this particular age or a particular author like melville whose works
+weren t weren t didn t or schubert whose works weren t properly
+appreciated or exploitable until many years after their death all of these
+variations are quintessentially legislative judgments it would be very difficult
+for the framers to have eschewed deciding years was a constitutional limitation
+and for this court to say years is and again even the petitioners aren t asking
+the court to make that judgment the petitioners are only saying that there shall be
+a per se rule that the word limited times means unchangeable times
+but there has to be a limit as you acknowledge perpetual
+copyright is not permitted who is the judge of within that line who is the
+judge of when it becomes unlimited is there in other words judicial review and
+if there is what standard would this court apply to determine whether something
+short of perpetual is still unlimited
+well the issue before this court i hasten to say as i
+said before is only whether once the congress makes that judgment it can ever
+change it retrospectively the issue before this court is not whether in the
+future a certain length of time would be appropriate that but the answer to
+that justice ginsburg i submit is found in the necessary and proper clause and
+this court s interpretation of the necessary and proper clause as to the extent that
+this court would find or not find that the judgment made by congress with respect to
+the implementation of this very broad power is convenient or useful in terms of the
+achievement of the goals
+okay and is your argument that we find and hold against their
+retrospective because there is some at least plausible basis should so argument to
+say that there can be a causal connection between the retrospective extension and
+some benefit that can be traced to those particular works through the retrospective
+extension like dissemination is that your argument
+that is among our arguments justice souter
+is it also your argument that even if you cannot trace that
+kind or at least plausibly argue that there could be that kind of a causal benefit
+that it would still be constitutional because you should judge the extension simply
+as contributing to a general system one feature of which is that from time to time
+there may be retrospective extensions and so long as that general system induces
+the creation of works or the dissemination of works or the preservation of works
+so long as the general system works there is no review no limitation on the
+tinkering that can be done even retrospectively is that also your argument
+i think that s a fair statement of an argument that we
+have made and articulated in the brief
+okay
+that unless there is a the court is because the
+circumstances change that we are living in an era now where piracy is a significant
+problem there s question of administrative ease of administering a system where
+copyrights may be different for one set of authors or different for another set of
+authors there s changes that are taking place internationally so that what we re
+saying is that not only could this court conceive of reasons why congress thought it
+was accomplishing the objectives of this clause but that there are numerous
+objectives that are entirely legitimate in
+do you also argue that the necessary and proper clause alone
+will justify the retroactive extension simply as a matter of equity
+yes
+that is that the copyright clause justifies the extension for
+works not yet created but it would be enormously inequitable to have other authors
+who put in the same amount of work get a lesser protection so the necessary and
+proper clause now allows you to do the retrospective
+yes justice scalia and the examples that are
+can i ask you why is it enormously inequitable if they get
+exactly what they were entitled to at the time they made the work
+the implicit promise that
+i mean they have some right to expect that they will be
+you know an additional grant later on
+i think that s not an unreasonable expectation at all
+justice stevens because that was the premise of the
+that is the way it s always been done there hasn t been any
+copyright extension that hasn t applied to subsisting work
+that s
+but there was one justice breyer brought up ben jonson so
+this case doesn t involve works that are already in the public domain
+that is correct
+this is subsisting copyrights
+that is correct
+so
+but why wouldn t it
+why why not
+why wouldn t it if the equity argument under the necessary
+and proper clause justifies extension of the copyright for those whose copyright
+will expire tomorrow if it s not extended in order to put them on parity with those
+getting copyrights for new works why doesn t it apply to the copyright the holder
+of the copyright that expired yesterday
+you could arguably you could conceivably make that
+argument justice souter but there is a bright line there something that has
+already gone into the public domain which other individuals or companies or
+entities may then have acquired an interest in or rights to or be involved in
+disseminating
+and if you don t
+this is a rational
+if you don t draw the line there then ben jonson certainly
+gets recopyrighted
+well the difficulty
+if we re just looking for a bright line the line that they
+suggest between unexpired patents and copyrights and brand new ones is also just as
+bright
+oh i concede that it s a bright line but it s a bright
+line that would have
+except congress chose this one and didn t choose the other
+one that s
+congress
+basically you re saying the presumption ought to be in the congressional judgment
+about how to draw the line as well as in how long a line to draw
+i agree and this court has we re not just talking about the
+judgment of the congress of the the
+congress in this is the way the statute of anne was written this is the
+way the state copyright laws were written when this country became a nation this is
+the way the copyright statute the number of
+well of course the original statute was replacing a bunch of
+state statutes or state rules partly common law partly statutory that they had
+kind of a mixed up legal situation and there was an interest in having one uniform
+rule for the first time around
+well there was an interest in having a uniform rule and
+that s precisely why the framers created the copyright clause in the constitution
+but there was copyright protection in some states there wasn t copyright protection
+in other states and what we know from the decision of this court in the wheaton
+decision is that there was not a common law copyright in existence this court
+explicitly held that now the petitioners make this quid pro quo to draw the line
+as well as in how long a line
+i agree and this court has just talking about the
+judgment of the congress the congress in this is the way the argument
+that somehow implicitly the initial copyright statute was saying to people you
+get a copyright if you exchange whatever existing rights you have that simply does
+not make any sense there is no language and it s a relatively late discovered
+argument because it sees its full
+i want you to finish that but i want you to go back to the
+i have one question on the equity principle are you i want you to finish
+i wasn t finished but i m happy to come back
+go ahead no no you finish
+well i was going to say no language whatsoever of
+preemption abandonment abrogation or exchange in the copyright but compare
+copyright act but compare that to thefirst there s patent act under the same
+clause where there is that exchange there the other thing as this court has said
+there is no implied abrogation of common law rights which would be a doctrine which
+would be inconsistent with what the petitioner is arguing now
+why i mean i think you have a point on this equity
+principle i wonder is there any review there that is suppose you have a statute
+as this one arguably is where percent many billions of dollars of benefits
+are going to the existing holders of copyright on grounds of equity and the effect
+of the statute in eliciting new works is near zero i mean that would seem where
+this equity idea is the camel and the production idea is the gnat and is there any
+can we say something like that or does congress have total leeway in respect to
+well it
+who they want to give the money to basically
+justice breyer it s conceivable that the court might do
+that if that situation was present but it s not remotely the situation here we
+have the adoption of copyright terms which are consistent generally speaking with
+copyright terms which exist in the european union our principal competitor and in
+connection with international treaties we have a copyright term that s consistent
+with the concept of the creator plus the creator s first generation heirs we have a
+copyright term remember which supersedes the earlier copyright provisions that
+were added to the period between creation and publication so that the limited
+number of years in the first the and the statute were the number of years
+plus the relatively unlimited period of time between creation and publication so we
+don t have anything remotely like that in this situation we have a process which
+as you suggested or one of the questions suggested is may not have been the
+policy that you as a member of congress would have supported you might have made
+the balance that delicate balance that this court has referred to in another way
+but that is something that congress through its ability to gather facts and make
+balances is quintessentially capable of doing and that is where the framers vested
+the responsibility and what this statute does is to favor if at all the creator
+with respect to the utilization of these rights as opposed to the person who wishes
+to copy the creator that s an entirely rational distinction for congress to make
+thank you
+thank you general olson mr lessig you have minutes
+remaining
+rebuttal argument of lawrence lessig on behalf of the petitioners
+general olson has been perfectly clear in setting out the
+structure of the government s argument it is that there is no effective limit on
+congress s power under the copyright clause now were this the first time this
+court had considered congress s copyright authority that might be a plausible
+argument but the very first time this court ever struck down a law of congress as
+exceeding article i section power was in the context of the copyright clause we
+have years of history of this court making sure that the limits both express
+and implied in the copyright clause have some meaning the feist opinion very
+clearly sets out the implied limits a per se limit for originality for the reasons
+justice breyer was trying to get me to say the harper as well as graham set out
+very clear limits on the context of the ability to extend works in the public
+domain those limits make no sense under the reasoning the government has offered
+the government s reasoning would make all of those opinions irrelevant and wrong
+now we offer a simple way to make this clear express limit make sense and that is
+precisely the understanding we suggest that existed in the only precedents
+that existed in were precedents of setting a term and then when parliament was
+asked in and to extend it they rejected it and as amicus historians
+said they rejected it because as a pamphleteer described it that would be
+effectively a perpetual term now this delicate balance that the government
+invokes justice breyer let me give you the numbers the delicate balance is that
+under the most reasonable assumptions of copyright royalty income and under our
+interest rate of percent as the amicus economists note at page note of their
+brief the current term gives authors percent of the value of a perpetual term
+now that might be a delicate balance that they give the author percent and
+the public percent but in my mind that s delicate in a very different sense of
+that term thank you very much
+thank you mr lessig the case is
+submitted
+whereupon at a m the case in the above entitled matter was submitted
